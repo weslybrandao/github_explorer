@@ -2,17 +2,16 @@
   <img src="src/assets/logo.svg" />
 </h1>
 
+> 🔎 Find your favorite repositories on **Github**
+
+> 📃 List and see all info about this repository
+
+---
 # 🎈 Aplication
 
 <p align="center">
   <img src="https://media.giphy.com/media/eH3HMdg7gXM48hbul8/giphy.gif" />
 </p>
-
----
-
-> 🔎 Find your favorite repositories on **Github**
-
-> 📃 List and see all info about this repository
 
 ---
 
